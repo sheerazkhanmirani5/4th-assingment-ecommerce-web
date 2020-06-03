@@ -1,0 +1,230 @@
+
+p
+{
+ 
+ text-align: center;
+ font-variant: initial;
+ color: #808080;
+ font-size: 40px;
+ margin: 10px;
+ padding: 5px;
+
+
+}
+
+
+.menu
+{
+
+font-variant: initial;
+text-align: right;
+color: #808080;
+left: -15px; 
+
+}
+
+
+.menu ul
+{
+
+
+	display: inline-flex;
+	list-style: none;
+	/*background: #B0C4DE;*/
+
+
+}
+.menu,ul li
+{
+    position: relative;
+   	width-right: 20px;
+	padding: 10px;
+	padding-top: 1px;
+    background: white;
+    color: black;
+    
+
+}
+.menu ul li:hover
+{
+
+
+    
+	background: lightblue;
+	border-radius: 1px;
+	text-indent: center;
+	
+}
+
+.search
+{
+
+padding: 3px;
+margin: 20px;
+position: relative;
+right: -325px;
+width: 400px;
+
+
+}
+
+button
+
+{
+
+
+padding: 5px;
+margin: 5px;
+background: black;
+color: white;
+position: relative;
+left: 300px;
+}
+
+button:hover
+{
+
+	background: #1E90FF;
+	border-radius: 50px;
+}
+
+
+
+.logo{
+
+
+	position: absolute;
+	top: 2px;
+}
+
+
+.pic
+{
+
+  position: relative;
+  bottom: -100px;
+  text-align: center;
+
+
+}
+.btn-primary
+{
+
+   padding:  5px;
+   position: relative;
+   left: 20px;
+
+}
+
+
+.btn-dark
+{
+    position: relative;
+	left: 105px;
+    font-size:   15px !important;
+
+    top: 63px;
+}
+
+
+.btn-light
+{
+
+
+	position: relative;
+	left: 370px;
+	font-size:   15px !important;
+	 top: 35px;
+
+
+}
+
+.btn-warning
+
+
+{
+
+ position: relative;
+ left: 640px;
+ top: -10px;
+
+
+}
+.pic2
+{
+
+  position: relative;
+   text-align: left;
+   padding: 30px;
+   font-variant:  initial;
+   color: #808080;
+   	
+	
+}
+/*h3,h3
+{
+
+   position: relative;
+   left: 50px;
+   padding: 10px;
+   font-variant:  initial;
+   color: #808080;
+
+
+}*/
+.pic4
+{
+
+   position: relative;
+   text-align: right;
+   padding: 30px;
+   font-variant:  initial;
+   color: #808080;
+   
+   
+
+	
+}
+.btn-secondary
+{
+
+	position: relative;
+	top: -130px;
+}
+
+.introdution
+{
+  
+text-align: center;
+padding: 20px;
+color: #6A5ACD;
+
+}
+.p1, .p2
+ {
+    color: #A9A9A9;
+    padding-left: 100px;
+    padding-right: 100px;
+   padding-bottom: 30px;    
+
+
+
+ }
+.card-body
+{
+
+
+	text-align: center;
+	font-variant:  initial !important;
+   color: #808080;
+   
+}
+
+
+
+
+
+
+
+
+
